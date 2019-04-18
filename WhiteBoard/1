@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_66" class="java.beans.XMLDecoder">
+ <array class="GUI.DShapeModel" length="4">
+  <void index="0">
+   <object class="GUI.DRectModel">
+    <void property="x">
+     <int>83</int>
+    </void>
+    <void property="y">
+     <int>173</int>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="GUI.DOvalModel">
+    <void property="x">
+     <int>204</int>
+    </void>
+    <void property="y">
+     <int>128</int>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="GUI.DLineModel" id="DLineModel0">
+    <void id="Point0" property="p1">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>216</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>292</int>
+      </void>
+     </void>
+    </void>
+    <void id="Point1" property="p2">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>236</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>312</int>
+      </void>
+     </void>
+    </void>
+    <void property="x">
+     <int>216</int>
+    </void>
+    <void property="y">
+     <int>292</int>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="GUI.DTextModel">
+    <void property="x">
+     <int>111</int>
+    </void>
+    <void property="y">
+     <int>91</int>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
