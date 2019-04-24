@@ -1,5 +1,6 @@
 # WhiteBoard
 An interactive UI where users can draw shape while multiple spectators can see the changes in real time. It is similar to a mini web app with MVC design
+![alt text](https://github.com/zpl0310/WhiteBoard/blob/master/whiteboard.png)
 Basic features:
 1. add and remove shapes(line,text,rectangle,oval);
 2. resize and move shapes around
